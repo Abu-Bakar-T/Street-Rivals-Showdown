@@ -1,3 +1,4 @@
 # Street-Rivals-Showdown
-A top down 1v1 basket ball game that is local multiplayer. 
-Its available for PC and Web. Its a canceled project.
+A Canceled Project of Mine. Its a simple 1v1 topdown basket ball game. 
+Its available for Web and PC. 
+Only Local Multiplayer is working, others were in development when project was canceled.​
