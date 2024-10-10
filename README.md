@@ -22,3 +22,6 @@
 
 ## Downloadables
 - [Mediafire Folder](https://www.mediafire.com/folder/596tcept48sic/Street_Rivals_Showdown_Downloadables)
+  
+## WebGL Uploaded Build
+- [Itch.io](https://abu-bakar-t.itch.io/street-rivals-showdown)
