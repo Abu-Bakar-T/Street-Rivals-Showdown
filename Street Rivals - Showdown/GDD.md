@@ -1,22 +1,20 @@
-+-------------------------+---------------------------------+----------+
-| > **Assignment No. 4**  | Game Design Document            | 11       |
-|                         |                                 | -01-2024 |
-+=========================+=================================+==========+
-+-------------------------+---------------------------------+----------+
+# Game Design Document - 11-01-2024
 
-+--------------------------------------+-------------------------------+
-| > **Street Rivals: Showdown**        | **Target Audience**: 7+       |
-| >                                    |                               |
-| > **Code X**                         | **Gamer Type**: Casual        |
-| >                                    |                               |
-| > Abu Bakar Tahir -- L1F21BSCS0503   | **Target Platforms:** PC      |
-| >                                    |                               |
-| > Musa Khan -- L1F21BSCS1264         | **Genre:** Sports             |
-| >                                    |                               |
-| > Muhammad Hassan Javed --           | **Number of Players:** 1 - 2  |
-| > L1F21BSCS1057                      |                               |
-+======================================+===============================+
-+--------------------------------------+-------------------------------+
+## Street Rivals: Showdown
+
+**Code X**
+
+| Name                    | Roll Number     |
+|-------------------------|-----------------|
+| Abu Bakar Tahir          | L1F21BSCS0503   |
+| Musa Khan                | L1F21BSCS1264   |
+| Muhammad Hassan Javed    | L1F21BSCS1057   |
+
+- **Target Audience**: 7+
+- **Gamer Type**: Casual
+- **Target Platforms**: PC
+- **Genre**: Sports
+- **Number of Players**: 1 - 2
 
 **Concept Image**
 
@@ -179,10 +177,12 @@ The incorporation of timed matches adds a unique urgency to gameplay,
 setting it apart from other street basketball games and contributing to
 the game\'s fast-paced and action-packed nature.
 
+** Game Flow**
 ![](./image2.png)
 
-![](./image3.png){width="6.764782370953631in"
-height="7.972916666666666in"}
+
+** Game loop **
+![](./image3.png)
 
 **Scope Management**
 
