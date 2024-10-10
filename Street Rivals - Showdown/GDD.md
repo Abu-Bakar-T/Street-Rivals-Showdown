@@ -177,12 +177,11 @@ The incorporation of timed matches adds a unique urgency to gameplay,
 setting it apart from other street basketball games and contributing to
 the game\'s fast-paced and action-packed nature.
 
-** Game Flow**
-![](./image2.png)
+**Game Flow**  
+![Game Flow](./image2.png)
 
-
-** Game loop **
-![](./image3.png)
+**Game Loop**  
+![Game Loop](./image3.png)
 
 **Scope Management**
 
