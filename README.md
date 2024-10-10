@@ -19,3 +19,6 @@
 - [Musa Zeeshan Khan](https://www.linkedin.com/in/musa-khan46488/)
 - [Hasaan Javed](https://www.linkedin.com/in/hasaan-javed/)
 - [Abu Bakar Tahir](https://www.linkedin.com/in/abu-bakar-tahir/)
+
+## Downloadables
+- [Mediafire Folder](https://www.mediafire.com/folder/596tcept48sic/Street_Rivals_Showdown_Downloadables)
