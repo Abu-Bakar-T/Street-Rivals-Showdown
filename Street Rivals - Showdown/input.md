@@ -179,8 +179,7 @@ The incorporation of timed matches adds a unique urgency to gameplay,
 setting it apart from other street basketball games and contributing to
 the game\'s fast-paced and action-packed nature.
 
-![](./image2.png){width="6.756298118985127in"
-height="7.801388888888889in"}
+![](./image2.png)
 
 ![](./image3.png){width="6.764782370953631in"
 height="7.972916666666666in"}
