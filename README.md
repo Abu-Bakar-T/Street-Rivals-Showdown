@@ -1,18 +1,28 @@
-# Street-Rivals-Showdown
+# Street Rivals Showdown
 
-**A Canceled Project** of mine. It's a simple 1v1 top-down basketball game, available for Web and PC. Only local multiplayer is functional, as other features were still in development when the project was canceled.
+**A Canceled Project**: *Street Rivals Showdown* is a simple 1v1 top-down basketball game designed for Web and PC. While the local multiplayer feature is functional, other aspects of the game were still under development when the project was canceled.
 
 ## Development Team
 
-- **Musa Zeeshan Khan**: Participated in the ideation process and developed the ball throw towards trajectory algorithm.
-- **Hasaan Javed**: Helped in the development of the Timer and Game Manager scripts and sourced some of the assets used online.
-- **Abu Bakar Tahir**: Participated in the ideation process, led the team, designed the UI, developed the control system, and integrated all separate scripts provided by the team (as well as the ones created himself) into the final game.
+- **Musa Zeeshan Khan**: Participated in the ideation process and developed the ball throw trajectory algorithm.
+- **Hasaan Javed**: Contributed to the development of the Timer and Game Manager scripts, and sourced some online assets.
+- **Abu Bakar Tahir**: Led the team, participated in ideation, designed the UI, developed the control system, and integrated all scripts into the final game.
 
 ## Work Division
 
-- **Musa Zeeshan Khan**: Ideation, Ball trajectory algorithm
-- **Hasaan Javed**: Timer, Game Manager script, Asset sourcing
-- **Abu Bakar Tahir**: Ideation, Team leadership, UI design, Control system, Script integration
+- **Musa Zeeshan Khan**: 
+  - Ideation
+  - Ball trajectory algorithm
+- **Hasaan Javed**: 
+  - Timer
+  - Game Manager script
+  - Asset sourcing
+- **Abu Bakar Tahir**: 
+  - Ideation
+  - Team leadership
+  - UI design
+  - Control system
+  - Script integration
 
 ## LinkedIn Profiles
 
@@ -21,7 +31,15 @@
 - [Abu Bakar Tahir](https://www.linkedin.com/in/abu-bakar-tahir/)
 
 ## Downloadables
+
+Access the downloadable assets for *Street Rivals Showdown* here:
 - [Mediafire Folder](https://www.mediafire.com/folder/596tcept48sic/Street_Rivals_Showdown_Downloadables)
-  
+
 ## WebGL Uploaded Build
+
+Play the game directly in your browser:
 - [Itch.io](https://abu-bakar-t.itch.io/street-rivals-showdown)
+
+---
+
+Thank you for your interest in *Street Rivals Showdown*! Although the project was canceled, it represents a significant collaborative effort in game design and development. Feel free to explore the downloadable content and the online build.
