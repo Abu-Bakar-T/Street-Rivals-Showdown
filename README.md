@@ -35,6 +35,15 @@
 Access the downloadable assets for *Street Rivals Showdown* here:
 - [Mediafire Folder](https://www.mediafire.com/folder/596tcept48sic/Street_Rivals_Showdown_Downloadables)
 
+## Reflection
+
+- We should have properly planned the project (along with project timeline) from the beginning.  
+- The game should have been designed before starting development.  
+- We should have limited the features to prevent the feature creep that occurred.  
+- The core mechanics should have been outlined more clearly.  
+- The design should have been tailored to support the development process.  
+- We should have spent more time refining the core mechanics to avoid confusion during development.
+
 ## WebGL Uploaded Build
 
 Play the game directly in your browser:
